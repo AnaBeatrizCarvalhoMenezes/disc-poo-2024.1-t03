@@ -1,4 +1,4 @@
-UESTÕES RESOLVIDAS CAP 06 README:
+QUESTÕES RESOLVIDAS CAP 06 README:
 
 # Exercícios resolvidos do capítulo 6 do livro de Fundamentos da Programação da matéria de POO de JAVA
 
